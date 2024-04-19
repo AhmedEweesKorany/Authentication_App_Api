@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: white;
+    height: 100vh;
+    overflow: hidden;
+    font-size: 30px;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+}
